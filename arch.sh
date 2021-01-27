@@ -13,6 +13,6 @@ export WINEPREFIX=~/.wine
 ./setup_dxvk.sh install
 cd ~/Desktop
 wget https://download2266.mediafire.com/fvexxg6k22ng/n3p1v3jj9mcvnrf/MBAACC+-+Community+Edition.0.22.rar
-unrar x MBAACC+-+Community+Edition.0.22.rarMBAACC+-+Community+Edition.0.22.rar
+unrar x MBAACC+-+Community+Edition.0.22.rar
 cd MBAACC - Community Edition/MBAACC
 rm d3d9_36.dll D3DX9_43.dll
