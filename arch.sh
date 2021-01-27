@@ -1,4 +1,6 @@
 #!/bin/sh
+#for Arch linux and derivative distros
+#untested
 sudo pacman-Syu
 sudo pacman -S unrar
 sudo pacman -S wine-staging winetricks wine-mono 
